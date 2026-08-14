@@ -12,9 +12,7 @@ To analyze students' academic performance using factors such as attendance, stud
 ##Student Performance Prediction Excel project, you can use these Project Questions and KPIs in your dashboard.
 
 What is the overall student performance?
-
 What is the pass and fail percentage?
-
 How does attendance affect student marks?
 Does study time affect academic performance?
 Which students are high performers?
