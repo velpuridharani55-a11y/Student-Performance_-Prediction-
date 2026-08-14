@@ -7,7 +7,7 @@ Student Performance Prediction System
 
 To analyze students' academic performance using factors such as attendance, study hours, assignment marks, and examination scores. The project aims to identify performance trends and students who may need additional academic support, helping teachers make better decisions and improve student outcomes.
 
-- <a href="https://github.com/velpuridharani55-a11y/Student-Performance_-Prediction">dataset</a>
+<a href="https://github.com/velpuridharani55-a11y/Student-Performance_-Prediction-/blob/main/Student_Performance_Prediction%20(1).xlsx">
 
 ##Student Performance Prediction Excel project, you can use these Project Questions and KPIs in your dashboard.
 
